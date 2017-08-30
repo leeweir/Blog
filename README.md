@@ -1,2 +1,2 @@
 # Blog
-通过issue写日志
+通过issue写博客
